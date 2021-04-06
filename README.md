@@ -1,5 +1,5 @@
-<h1 align="center">I'm Bhagawat</h1>
-<h3 align="center">I am software developer, Learner</h3>
+<h1 align="center">I'm Bhagawat Dongre</h1>
+<h3 align="center">I Am Software Developer, Learner</h3>
 
 - 🔭 I’m currently working on **Frontent development for AI based recommendation platform**
 
@@ -14,9 +14,3 @@
 <a href="https://stackoverflow.com/users/bhagawat-dongre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bhagawat-dongre" height="30" width="40" /></a>
 <a href="https://fb.com/bhagawat.dongre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bhagawat.dongre" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagawatdongre&show_icons=true&locale=en&layout=compact" alt="bhagawatdongre" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagawatdongre&show_icons=true&locale=en" alt="bhagawatdongre" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagawatdongre&" alt="bhagawatdongre" /></p>
