@@ -1,5 +1,5 @@
 <h1 align="center">I'm Bhagawat Dongre</h1>
-<h3 align="center">I Am Software Developer, Learner</h3>
+<h3 align="center">I am software developer</h3>
 
 - 🔭 I’m currently working on **Frontent development for AI/DataScience driven recommendation platform**
 
