@@ -17,4 +17,4 @@
 
 Lets connect!!
 
-<a href='https://calendly.com/bhagawatdongre'>calendly.bhagawatdongre</a>
+<a href='https://calendly.com/bhagawatdongre/15min'>calendly.bhagawatdongre</a>
