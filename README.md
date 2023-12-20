@@ -18,3 +18,5 @@
 Lets connect!!
 
 <a href='https://calendly.com/bhagawatdongre/15min'>calendly.bhagawatdongre</a>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6912350453833895937" height="647" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
