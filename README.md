@@ -1,9 +1,7 @@
 <h1 align="center">I'm Bhagawat Dongre</h1>
 <h3 align="center">I am software developer</h3>
 
-- 🔭 I’m currently working on **Frontent development for AI/DataScience driven recommendation platform**
-
-- 💬 Ask me about **React, Redux, UI, Nodejs**
+- 🔭 I’m currently working on **Software Devloper**
 
 - 📫 How to reach me **bhagawatdongre@gmail.com**
 
@@ -18,5 +16,3 @@
 Lets connect!!
 
 <a href='https://calendly.com/bhagawatdongre/15min'>calendly.bhagawatdongre</a>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6912350453833895937" height="647" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
