@@ -1,5 +1,5 @@
 <h1 align="center">I'm Bhagawat Dongre</h1>
-<h3 align="center">I am Senoir Software Developer</h3>
+<h3 align="center">I am Software Developer</h3>
 
 - 📫 How to reach me **bhagawatdongre@gmail.com**
 
